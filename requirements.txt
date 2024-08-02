@@ -167,8 +167,6 @@ nest-asyncio
 networkx
 nibabel==5.1.0
 nltk
--e
--e
 nose
 notebook
 numba
