@@ -14,7 +14,7 @@ Automat
 autopep8
 Babel
 backcall
-backports
+backports.shutil_get_terminal_size
 backports
 backports
 batchgenerators==0.25
