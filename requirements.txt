@@ -256,7 +256,7 @@ ruamel-yaml-conda
 s3transfer
 scikit-image
 scikit-learn
-scikit-learn-intelex==2021.20221004.171807
+scikit-learn-intelex==2023.1.0
 scipy==1.9.1
 Scrapy
 seaborn
