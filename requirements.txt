@@ -37,12 +37,6 @@ cloudpickle
 clyent==1.2.1
 colorama
 colorcet
-conda-content-trust
-conda-pack
-conda-package-handling
-conda-repo-cli==1.0.20
-conda-token
-conda-verify==3.4.2
 connected-components-3d==3.10.5
 constantly==15.1.0
 cookiecutter
