@@ -14,8 +14,7 @@ Automat
 autopep8
 Babel
 backcall
-backports
-backports
+backports.shutil_get_terminal_size
 batchgenerators==0.25
 bcrypt
 beautifulsoup4
